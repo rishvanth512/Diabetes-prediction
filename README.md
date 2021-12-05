@@ -27,8 +27,13 @@ Seaborn library is used for making graphs from the given data. It is very import
 
 
 Supervisor
+
 Dr. Siddhaling Urolagin,
+
 PhD, Post-Doc, (Machine Learning),
+
 dr.siddhaling@gmail.com,
+
 www.github.com/siddhaling
+
 www.researchreader.com
