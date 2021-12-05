@@ -24,3 +24,11 @@ Sklearn library is used for various functions such as supervised and unsupervise
 
 Seaborn 
 Seaborn library is used for making graphs from the given data. It is very important library for the data visualization process.
+
+
+Supervisor
+Dr. Siddhaling Urolagin,
+PhD, Post-Doc, (Machine Learning),
+dr.siddhaling@gmail.com,
+www.github.com/siddhaling
+www.researchreader.com
